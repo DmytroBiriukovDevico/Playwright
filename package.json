@@ -1,0 +1,25 @@
+{
+  "name": "Playwright",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "typescript": "^4.9.4"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.29.1",
+    "chai": "^4.3.7"
+  },
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DmytroBiriukovDevico/Playwright.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DmytroBiriukovDevico/Playwright/issues"
+  },
+  "homepage": "https://github.com/DmytroBiriukovDevico/Playwright#readme"
+}
