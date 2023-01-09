@@ -4,10 +4,13 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
+    "@faker-js/faker": "^7.6.0",
+    "dotenv": "^16.0.3",
+    "playwright-expect": "^0.1.2",
     "typescript": "^4.9.4"
   },
   "devDependencies": {
-    "@playwright/test": "^1.29.1",
+    "@playwright/test": "^1.29.2",
     "chai": "^4.3.7"
   },
   "scripts": {},
